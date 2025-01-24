@@ -1,0 +1,7 @@
+npx react-native init NewProjectName
+local.properties: sdk.dir = /Users/saurav/Library/Android/sdk
+
+
+
+
+

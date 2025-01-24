@@ -1,0 +1,3 @@
+[submodule "newApp"]
+	path = newApp
+	url = https://github.com/v-asura/React-Native.git
